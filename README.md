@@ -1,6 +1,4 @@
-# Neste projeto, o desafio consiste em transformar uma tabela única de amostra financeira em um modelo de dados baseado no esquema estrela, utilizando o Power BI e a linguagem DAX. O objetivo é criar tabelas dimensão e fato a partir da tabela original, de forma a organizar e otimizar a visualização e análise dos dados.
-
-Processo de Construção do Diagrama:
+Neste projeto, o desafio consiste em transformar uma tabela única de amostra financeira em um modelo de dados baseado no esquema estrela, utilizando o Power BI e a linguagem DAX. O objetivo é criar tabelas dimensão e fato a partir da tabela original, de forma a organizar e otimizar a visualização e análise dos dados.
 
 # Criação das Tabelas Dimensão e Fato:
 
