@@ -19,3 +19,7 @@ Agrupamentos e Condicionais: Reorganização de colunas e criação de novas col
 # Reorganização das Colunas:
 
 As colunas foram reorganizadas para facilitar a leitura e análise dos dados, conforme a estrutura do esquema estrela.
+
+# Imagem do esquema
+
+![image](https://github.com/user-attachments/assets/0e8407d5-af92-436e-a863-fc7eef20ce08)
